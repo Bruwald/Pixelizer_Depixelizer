@@ -23,3 +23,11 @@ If there is any remaining time left by the end of the semester, our second goal 
 ![alt text](./expected_results/sample-3.jpeg)
 
 ![alt text](./expected_results/sample-4.png)
+
+## Partial Results Report
+
+After applying image processing algorithms in our images, such as image segmentation (to construct the color palette to be used by the final pixel-art image) and edge/contour detection (to give the object/character that sweet black contour that is typical of the style of pixel-art), we have arrived at some pretty good results, but we are still figuring out the best way to accomplish that fine contour definition, which turned out to be pretty hard to get right. With that in mind we give a few example of the results:
+
+![alt text](./partial_results/boo_p_res.png)
+
+![alt text](./partial_results/samus_p_res.png)
