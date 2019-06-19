@@ -21,7 +21,6 @@ The name Pixelizer refers to the process of transforming the image to a pixel ar
 If there is any remaining time left by the end of the semester, our second goal is to reverse the process mentioned above, i.e, transforming an original pixel-art image into a smooth countour-lined image using algorithms such as xBR or HQX (popular fast image upscaling algorithms), hoping to achieve the following results:
 
 ![alt text](./expected_results/sample-3.jpeg)
-
 ![alt text](./expected_results/sample-4.png)
 
 ## Partial Results Report
@@ -29,5 +28,8 @@ If there is any remaining time left by the end of the semester, our second goal 
 After applying image processing algorithms in our images, such as image segmentation (to construct the color palette to be used by the final pixel-art image) and edge/contour detection (to give the object/character that sweet black contour that is typical of the style of pixel-art), we have arrived at some pretty good results, but we are still figuring out the best way to accomplish that fine contour definition, which turned out to be pretty hard to get right. With that in mind we give a few example of the results:
 
 ![alt text](./partial_results/boo_p_res.png)
-
 ![alt text](./partial_results/samus_p_res.png)
+
+## Final Report and Code
+
+The final report of this project (alongside the code) are all located in the .pynb file that is inside this git repository. Feel free to check it out to see our final results!
